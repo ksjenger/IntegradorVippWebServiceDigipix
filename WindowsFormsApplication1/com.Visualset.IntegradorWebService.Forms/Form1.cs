@@ -94,7 +94,7 @@ namespace IntegradorWebService
                 caminhoArquivo = System.IO.Path.GetDirectoryName(openFileDialog.FileName);
                 labelPath.Text = path;
                 labelProgresso.Text = "Importando o Arquivo";
-                lVipp = ProcessaPlanilha.ListaDePostagem(path, this);
+                lVipp = ProcessaTxt.ListaDePostagem(path, this);
                 labelProgresso.Text = "Arquivo importado!";
                 btnEnviar.Enabled = true;
                 comboPerfil.Focus();
