@@ -12,7 +12,7 @@ namespace IntegradorWebService.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.1.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.9.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -49,28 +49,34 @@ namespace IntegradorWebService.Properties {
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("PEFycmF5T2ZGb3JtYXRhY2FvUGxhbmlsaGE+PEZvcm1hdGFjYW9QbGFuaWxoYT48Tm9tZUF0cmlidXRvP" +
-            "k9ic2VydmFjYW8xPC9Ob21lQXRyaWJ1dG8+PENvbHVuYT4xPC9Db2x1bmE+PC9Gb3JtYXRhY2FvUGxhb" +
-            "mlsaGE+PEZvcm1hdGFjYW9QbGFuaWxoYT48Tm9tZUF0cmlidXRvPlF1YW50aWRhZGU8L05vbWVBdHJpY" +
-            "nV0bz48Q29sdW5hPjExPC9Db2x1bmE+PC9Gb3JtYXRhY2FvUGxhbmlsaGE+PEZvcm1hdGFjYW9QbGFua" +
-            "WxoYT48Tm9tZUF0cmlidXRvPkNvbnRldWRvPC9Ob21lQXRyaWJ1dG8+PENvbHVuYT4xMDwvQ29sdW5hP" +
-            "jwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb3JtYXRhY2FvUGxhbmlsaGE+PE5vbWVBdHJpYnV0bz5EZXN0a" +
-            "W5hdGFyaW88L05vbWVBdHJpYnV0bz48Q29sdW5hPjE1PC9Db2x1bmE+PC9Gb3JtYXRhY2FvUGxhbmlsa" +
-            "GE+PEZvcm1hdGFjYW9QbGFuaWxoYT48Tm9tZUF0cmlidXRvPkRvY3VtZW50b0Rlc3RpbmF0YXJpbzwvT" +
-            "m9tZUF0cmlidXRvPjxDb2x1bmE+MTY8L0NvbHVuYT48L0Zvcm1hdGFjYW9QbGFuaWxoYT48Rm9ybWF0Y" +
-            "WNhb1BsYW5pbGhhPjxOb21lQXRyaWJ1dG8+RW5kZXJlY288L05vbWVBdHJpYnV0bz48Q29sdW5hPjE3P" +
+            "lBlc288L05vbWVBdHJpYnV0bz48Q29sdW5hPjY8L0NvbHVuYT48L0Zvcm1hdGFjYW9QbGFuaWxoYT48R" +
+            "m9ybWF0YWNhb1BsYW5pbGhhPjxOb21lQXRyaWJ1dG8+T2JzZXJ2YWNhbzE8L05vbWVBdHJpYnV0bz48Q" +
+            "29sdW5hPjk8L0NvbHVuYT48L0Zvcm1hdGFjYW9QbGFuaWxoYT48Rm9ybWF0YWNhb1BsYW5pbGhhPjxOb" +
+            "21lQXRyaWJ1dG8+RGVzdGluYXRhcmlvPC9Ob21lQXRyaWJ1dG8+PENvbHVuYT4xNTwvQ29sdW5hPjwvR" +
+            "m9ybWF0YWNhb1BsYW5pbGhhPjxGb3JtYXRhY2FvUGxhbmlsaGE+PE5vbWVBdHJpYnV0bz5FbmRlcmVjb" +
+            "zwvTm9tZUF0cmlidXRvPjxDb2x1bmE+MTg8L0NvbHVuYT48L0Zvcm1hdGFjYW9QbGFuaWxoYT48Rm9yb" +
+            "WF0YWNhb1BsYW5pbGhhPjxOb21lQXRyaWJ1dG8+TnVtZXJvPC9Ob21lQXRyaWJ1dG8+PENvbHVuYT4xO" +
+            "TwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb3JtYXRhY2FvUGxhbmlsaGE+PE5vbWVBdHJpY" +
+            "nV0bz5Db21wbGVtZW50bzwvTm9tZUF0cmlidXRvPjxDb2x1bmE+MjA8L0NvbHVuYT48L0Zvcm1hdGFjY" +
+            "W9QbGFuaWxoYT48Rm9ybWF0YWNhb1BsYW5pbGhhPjxOb21lQXRyaWJ1dG8+QmFpcnJvPC9Ob21lQXRya" +
+            "WJ1dG8+PENvbHVuYT4yMjwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb3JtYXRhY2FvUGxhb" +
+            "mlsaGE+PE5vbWVBdHJpYnV0bz5DaWRhZGU8L05vbWVBdHJpYnV0bz48Q29sdW5hPjIzPC9Db2x1bmE+P" +
+            "C9Gb3JtYXRhY2FvUGxhbmlsaGE+PEZvcm1hdGFjYW9QbGFuaWxoYT48Tm9tZUF0cmlidXRvPlVGPC9Ob" +
+            "21lQXRyaWJ1dG8+PENvbHVuYT4yNDwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb3JtYXRhY" +
+            "2FvUGxhbmlsaGE+PE5vbWVBdHJpYnV0bz5DRVA8L05vbWVBdHJpYnV0bz48Q29sdW5hPjI2PC9Db2x1b" +
+            "mE+PC9Gb3JtYXRhY2FvUGxhbmlsaGE+PEZvcm1hdGFjYW9QbGFuaWxoYT48Tm9tZUF0cmlidXRvPkVtY" +
+            "WlsPC9Ob21lQXRyaWJ1dG8+PENvbHVuYT4yNzwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb" +
+            "3JtYXRhY2FvUGxhbmlsaGE+PE5vbWVBdHJpYnV0bz5EREQ8L05vbWVBdHJpYnV0bz48Q29sdW5hPjI4P" +
             "C9Db2x1bmE+PC9Gb3JtYXRhY2FvUGxhbmlsaGE+PEZvcm1hdGFjYW9QbGFuaWxoYT48Tm9tZUF0cmlid" +
-            "XRvPk51bWVybzwvTm9tZUF0cmlidXRvPjxDb2x1bmE+MTg8L0NvbHVuYT48L0Zvcm1hdGFjYW9QbGFua" +
-            "WxoYT48Rm9ybWF0YWNhb1BsYW5pbGhhPjxOb21lQXRyaWJ1dG8+QmFpcnJvPC9Ob21lQXRyaWJ1dG8+P" +
-            "ENvbHVuYT4xOTwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb3JtYXRhY2FvUGxhbmlsaGE+P" +
-            "E5vbWVBdHJpYnV0bz5Db21wbGVtZW50bzwvTm9tZUF0cmlidXRvPjxDb2x1bmE+MjA8L0NvbHVuYT48L" +
-            "0Zvcm1hdGFjYW9QbGFuaWxoYT48Rm9ybWF0YWNhb1BsYW5pbGhhPjxOb21lQXRyaWJ1dG8+Q0VQPC9Ob" +
-            "21lQXRyaWJ1dG8+PENvbHVuYT4yMTwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb3JtYXRhY" +
-            "2FvUGxhbmlsaGE+PE5vbWVBdHJpYnV0bz5DaWRhZGU8L05vbWVBdHJpYnV0bz48Q29sdW5hPjIyPC9Db" +
-            "2x1bmE+PC9Gb3JtYXRhY2FvUGxhbmlsaGE+PEZvcm1hdGFjYW9QbGFuaWxoYT48Tm9tZUF0cmlidXRvP" +
-            "lVGPC9Ob21lQXRyaWJ1dG8+PENvbHVuYT4yMzwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb" +
-            "3JtYXRhY2FvUGxhbmlsaGE+PE5vbWVBdHJpYnV0bz5TZXJ2aWNvPC9Ob21lQXRyaWJ1dG8+PENvbHVuY" +
-            "T4yNTwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsYW5pbGhhPjwvQXJyYXlPZkZvcm1hdGFjYW9QbGFuaWxoY" +
-            "T4=")]
+            "XRvPlRlbGVmb25lPC9Ob21lQXRyaWJ1dG8+PENvbHVuYT4yOTwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsY" +
+            "W5pbGhhPjxGb3JtYXRhY2FvUGxhbmlsaGE+PE5vbWVBdHJpYnV0bz5DZWx1bGFyPC9Ob21lQXRyaWJ1d" +
+            "G8+PENvbHVuYT4zMTwvQ29sdW5hPjwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb3JtYXRhY2FvUGxhbmlsa" +
+            "GE+PE5vbWVBdHJpYnV0bz5Ob3RhRmlzY2FsPC9Ob21lQXRyaWJ1dG8+PENvbHVuYT40MTwvQ29sdW5hP" +
+            "jwvRm9ybWF0YWNhb1BsYW5pbGhhPjxGb3JtYXRhY2FvUGxhbmlsaGE+PE5vbWVBdHJpYnV0bz5FdGlxd" +
+            "WV0YUVDVDwvTm9tZUF0cmlidXRvPjxDb2x1bmE+NDY8L0NvbHVuYT48L0Zvcm1hdGFjYW9QbGFuaWxoY" +
+            "T48Rm9ybWF0YWNhb1BsYW5pbGhhPjxOb21lQXRyaWJ1dG8+U2VydmljbzwvTm9tZUF0cmlidXRvPjxDb" +
+            "2x1bmE+NDc8L0NvbHVuYT48L0Zvcm1hdGFjYW9QbGFuaWxoYT48L0FycmF5T2ZGb3JtYXRhY2FvUGxhb" +
+            "mlsaGE+")]
         public string Layout {
             get {
                 return ((string)(this["Layout"]));

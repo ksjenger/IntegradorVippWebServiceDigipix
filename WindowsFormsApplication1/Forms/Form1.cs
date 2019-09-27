@@ -22,7 +22,7 @@ namespace IntegradorWebService
         {
             InitializeComponent();
             this.Text = "Importador Visual Personalizado - Versão: " + Application.ProductVersion;
-            Cursor = default;
+            //Cursor = default;
             btnEnviar.Enabled = false;
             lPerfil = RestPerfilImportacao.ProcessaListaPerfil(usuario, senha);
             comboPerfil.Items.Add("Selecione o Perfil");
@@ -86,7 +86,7 @@ namespace IntegradorWebService
             btnEnviar.Enabled = false;
             #region Abre o Arquivo
             OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.Filter = "Excel files (*.xlsx)|*.xlsx|All files (*.*)|*.*";
+            openFileDialog.Filter = "Txt files (*.txt)|*.txt|All files (*.*)|*.*";
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 path = openFileDialog.FileName;

@@ -33,7 +33,7 @@ namespace IntegradorWebService.Services
                 foreach (Excel.Worksheet xlsWorksheet in xlsSheets)
                 {
                     //Acessa a aba da Planilha com o nome "Control Respuesta".
-                    if (xlsWorksheet.Name.Trim().Equals("Control Respuesta"))
+                    if (xlsWorksheet.Index == 1)
                     {
                         Excel.Range xlsWorksRows = xlsWorksheet.Rows;
 
@@ -119,6 +119,10 @@ namespace IntegradorWebService.Services
                                         CodigoBarraVolume = valor
                                     };
                                     oVolumeObjetos[0].CodigoBarraVolume = oVolumeObjeto.CodigoBarraVolume;
+
+                                }
+                                else if (atributo.Equals("Email"))
+                                {
 
                                 }
                                 else if (atributo.Equals("Quantidade"))
